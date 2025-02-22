@@ -1,5 +1,5 @@
 <h1 align="center">Oi, Eu sou Zé 🐢</h1>
-<h3 align="center">Programador, amante de game dev e musica</h3>
+<h3 align="center"></h3>
 
 - Estudande de SI **Uninassau**
 
